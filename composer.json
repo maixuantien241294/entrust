@@ -60,6 +60,9 @@
             "aliases": {
                 "Entrust": "Zizaco\\Entrust\\EntrustFacade"
             }
+        },
+        "branch-alias": {
+          "dev-master": "1.0-dev"
         }
     },
     "autoload-dev": {
